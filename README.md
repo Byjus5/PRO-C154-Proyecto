@@ -1,2 +1,2 @@
-# PRO-C154-Project Solution
-Models Required. Use the models from the previous class project.
+# PRO-C154-Solución-Proyecto
+Modelos requeridos. Usa los modelos del proyecto de la clase anterior.
